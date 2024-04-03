@@ -1,4 +1,4 @@
-# create vpc
+## create vpc
 resource "aws_vpc" "vpc" {
   cidr_block              = 
   instance_tenancy        = 
